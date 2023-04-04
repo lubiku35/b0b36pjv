@@ -8,8 +8,6 @@ Practical exercises of hands-on Java skills and knowledge in the form of sub-pro
 
 ## Quick Navigation
 
----
-
 ### lab01 | Calculator
 
 - [Lab01.java](lab01\src\main\java\cz\cvut\fel\pjv\Lab01.java)
