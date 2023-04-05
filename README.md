@@ -16,7 +16,7 @@ Practical exercises of hands-on Java skills and knowledge in the form of sub-pro
 
 ### lab02 | Calculation of numerical sequence statistics
 
-- [Lab02.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab01/src/main/java/cz/cvut/fel/pjv/Lab02.java)
+- [Lab02.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab02/src/main/java/cz/cvut/fel/pjv/Lab02.java)
 
 - [Start.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab02/src/main/java/cz/cvut/fel/pjv/Start.java)
 
