@@ -21,3 +21,7 @@ Practical exercises of hands-on Java skills and knowledge in the form of sub-pro
 - [Start.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab02/src/main/java/cz/cvut/fel/pjv/Start.java)
 
 - [TextIO.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab02/src/main/java/cz/cvut/fel/pjv/TextIO.java)
+
+### lab03 | Circular queue
+
+- [Lab02.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab03/src/main/java/cz/cvut/fel/pjv/CircularArrayQueue.java)
