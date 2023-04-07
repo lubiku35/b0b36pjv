@@ -25,3 +25,7 @@ Practical exercises of hands-on Java skills and knowledge in the form of sub-pro
 ### lab03 | Circular queue
 
 - [Lab02.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab03/src/main/java/cz/cvut/fel/pjv/CircularArrayQueue.java)
+
+### lab03 | Brute Force Password Attacker
+
+- [BruteForceAttacker.java](https://github.com/lubiku35/b0b36pjv/blob/main/lab04/src/main/java/cz/cvut/fel/pjv/BruteForceAttacker.java)
